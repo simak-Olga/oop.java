@@ -1,4 +1,4 @@
-пакет урока 1
+пакет урока 1;
 public class interface flying {
 
     public class helicopter расширяет транспорт
